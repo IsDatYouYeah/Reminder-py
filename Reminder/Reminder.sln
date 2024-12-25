@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reminder", "Reminder\Reminder.pyproj", "{45781DEA-CBFC-4F25-BF9D-659DEF5BF55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45781DEA-CBFC-4F25-BF9D-659DEF5BF55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45781DEA-CBFC-4F25-BF9D-659DEF5BF55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76857BD6-5EA6-40A8-BE46-F22C28C1FECC}
+	EndGlobalSection
+EndGlobal
